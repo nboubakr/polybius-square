@@ -1,5 +1,5 @@
-		The Polybius Square Encipher/Decipher
-		=====================================
+The Polybius Square Encipher/Decipher
+=====================================
 
 		
 Description:
